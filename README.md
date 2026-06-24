@@ -71,11 +71,14 @@ O projeto está em constante evolução. Futuras implementações incluirão:
 
 Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger UI):
 
-| Listagem de Tarefas (GET) | Execução de POST | Sucesso na Resposta |
+**Listagem de Tarefas (GET):**
+![GET](https://github.com/RAHZ05/taskmaster-api/assets/3018afd9-e68d-4bcc-801c-66623f8197ca)
 
-<img width="1882" height="908" alt="Captura de tela 2026-06-24 150933" src="https://github.com/user-attachments/assets/3018afd9-e68d-4bcc-801c-66623f8197ca" />
-<img width="1878" height="905" alt="Captura de tela 2026-06-24 150956" src="https://github.com/user-attachments/assets/5e5cea14-a799-4f23-a55a-6cf80b2a23db" />
-<img width="1883" height="912" alt="Captura de tela 2026-06-24 150946" src="https://github.com/user-attachments/assets/8bed390c-dd97-4601-8113-b08e1e7331c8" />
+**Execução de POST:**
+![POST](https://github.com/RAHZ05/taskmaster-api/assets/5e5cea14-a799-4f23-a55a-6cf80b2a23db)
+
+**Resposta da API:**
+![RESPONSE](https://github.com/RAHZ05/taskmaster-api/assets/8bed390c-dd97-4601-8113-b08e1e7331c8)
 
 
 
