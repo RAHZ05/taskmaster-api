@@ -66,16 +66,6 @@ O projeto está em constante evolução. Futuras implementações incluirão:
 
 [ ] Testes unitários utilizando pytest.
 
- Demonstração da API
-
-Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger)
-
-![Demonstração 1](foto1.png)
-
-![Demonstração 2](foto2.png)
-
-![Demonstração 3](foto3.png)
-
 Desenvolvido por Raquel Alves.
 """
 #Python #FastAPI #Backend #SQLAlchemy #Portfolio
