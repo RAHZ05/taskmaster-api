@@ -16,7 +16,6 @@ O projeto foi estruturado para ser escalável e de fácil manutenção, utilizan
 ```text
 taskmaster-api/
 ├── app/
-│   ├── __init__.py
 │   ├── database.py    # Configurações do SQLAlchemy
 │   ├── main.py        # Rotas e lógica da API
 │   ├── models.py      # Definição das tabelas (ORM)
@@ -69,18 +68,7 @@ O projeto está em constante evolução. Futuras implementações incluirão:
 
  Demonstração da API
 
-Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger UI):
-
-**Listagem de Tarefas (GET):**
-![GET](https://github.com/RAHZ05/taskmaster-api/assets/3018afd9-e68d-4bcc-801c-66623f8197ca)
-
-**Execução de POST:**
-![POST](https://github.com/RAHZ05/taskmaster-api/assets/5e5cea14-a799-4f23-a55a-6cf80b2a23db)
-
-**Resposta da API:**
-![RESPONSE](https://github.com/RAHZ05/taskmaster-api/assets/8bed390c-dd97-4601-8113-b08e1e7331c8)
-
-
+Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger 
 
 
 
