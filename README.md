@@ -70,7 +70,7 @@ O projeto está em constante evolução. Futuras implementações incluirão:
 
 Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger 
 
-<img src="https://github.com/user-attachments/assets/b78f7b5e-4c6f-4c7f-bc1a-134bdd2d770c" width="400" height="400" alt="Captura de tela">
+![Descrição da Imagem](https://github.com/user-attachments/assets/b78f7b5e-4c6f-4c7f-bc1a-134bdd2d770c)
 
 
 
