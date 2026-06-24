@@ -70,9 +70,11 @@ O projeto está em constante evolução. Futuras implementações incluirão:
 
 Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger)
 
-![Descrição 1](foto1.png)
-![Descrição 2](foto2.png)
-![Descrição 3](foto3.png)
+![Demonstração 1](foto1.png)
+
+![Demonstração 2](foto2.png)
+
+![Demonstração 3](foto3.png)
 
 Desenvolvido por Raquel Alves.
 """
