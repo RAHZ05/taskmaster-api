@@ -68,9 +68,19 @@ O projeto está em constante evolução. Futuras implementações incluirão:
 
  Demonstração da API
 
-Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger 
+Abaixo, algumas capturas de tela do funcionamento da API através da documentação interativa (Swagger)
 
-![Descrição da Imagem](https://github.com/user-attachments/assets/b78f7b5e-4c6f-4c7f-bc1a-134bdd2d770c)
+<!-- Imagem 1 --
+![Descrição da imagem 1](app/Captura de tela 2026-06-24 150933/>
+)
+
+<!-- Imagem 2 -->
+![Descrição da imagem 2](app/Captura de tela 2026-06-24 150946/>
+)
+
+<!-- Imagem 3 -->
+![Descrição da imagem 3](app/Captura de tela 2026-06-24 150933/>
+)
 
 
 
